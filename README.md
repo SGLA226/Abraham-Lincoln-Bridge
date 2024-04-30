@@ -1,9 +1,19 @@
 # Abraham-Lincoln-Bridge
-## This page contains a Cesium Ion Story, a Render of the area before the bridge was constructed, and an animation showing key viewpoints of the bridge.
+This page contains a Cesium Ion Story, a layout of two maps comparing before and after, and an animation showing key viewpoints of the bridge.
+
+
+
+
+![Map of the surrounding area](AbrahamLincolnBridgeMap.jpg)
+
+[Link to High Resolution PDF](AbrahamLincolnBridgeMap.pdf)
+
+
+
 
 <section>
-    <h1>Abraham Lincoln Bridge</h1>
-    <h2>A close up exploration of a bridge in Louisville, Kentucky</h2>
+    <h1>Before and After the Construction of the Bridge</h1>
+    <h2>Phase 1 data, 2012, is compared to phase 2 data, 2023, in an area connecting Louisville, KY to Indiana.</h2>
     <iframe 
     title="Abraham Lincoln Bridge - Louisville, KY"  
     width="100%" 
