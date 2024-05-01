@@ -8,6 +8,7 @@ This page contains a layout of two maps comparing before and after, a Cesium Ion
 
 [Link to High Resolution PDF](AbrahamLincolnBridgeMap.pdf)
 
+*[Link to Abraham Lincoln Bridge animation](https://youtu.be/W_sdHuvkxqI)*
 
 <section>
     <h1>Before and After the Construction of the Bridge</h1>
@@ -23,6 +24,6 @@ This page contains a layout of two maps comparing before and after, a Cesium Ion
     <p class="caption">Close up of the bridge via Cesium Ion</p>
     <div class="title">
 
-*[Link to Abraham Lincoln Bridge animation](https://youtu.be/W_sdHuvkxqI)*
+
 
 Produced by Sam L. for GEO 409 Department of Geography, University of Kentucky 2024
