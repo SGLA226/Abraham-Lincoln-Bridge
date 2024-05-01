@@ -1,5 +1,5 @@
 # Abraham-Lincoln-Bridge
-This page contains a Cesium Ion Story, a layout of two maps comparing before and after, and an animation showing key viewpoints of the bridge.
+This page contains a layout of two maps comparing before and after, a Cesium Ion Story, and an animation showing key viewpoints of the bridge.
 
 
 
@@ -25,3 +25,4 @@ This page contains a Cesium Ion Story, a layout of two maps comparing before and
     <p class="caption">Close up of the bridge via Cesium Ion</p>
     <div class="title">
  
+ *[Link to Abraham Lincoln Bridge animation](https://youtu.be/W_sdHuvkxqI)*
