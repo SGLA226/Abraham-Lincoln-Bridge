@@ -26,3 +26,6 @@ This page contains a layout of two maps comparing before and after, a Cesium Ion
     <div class="title">
  
  *[Link to Abraham Lincoln Bridge animation](https://youtu.be/W_sdHuvkxqI)*
+
+
+ Produced by Sam L. for GEO 409 Department of Geography, University of Kentucky 2024
