@@ -8,15 +8,9 @@ This page contains a layout of two maps comparing before and after, a Cesium Ion
 
 [Link to High Resolution PDF](AbrahamLincolnBridgeMap.pdf)
 
-*[Link to Abraham Lincoln Bridge animation](https://youtu.be/W_sdHuvkxqI)*
 
-
-
-
-
-
-
-<h1>Before and After the Construction of the Bridge</h1>
+<section>
+    <h1>Before and After the Construction of the Bridge</h1>
     <h2>Phase 1 data, 2012, is compared to phase 2 data, 2023, in an area connecting Louisville, KY to Indiana.</h2>
     <iframe 
     title="Abraham Lincoln Bridge - Louisville, KY"  
@@ -29,5 +23,6 @@ This page contains a layout of two maps comparing before and after, a Cesium Ion
     <p class="caption">Close up of the bridge via Cesium Ion</p>
     <div class="title">
 
+*[Link to Abraham Lincoln Bridge animation](https://youtu.be/W_sdHuvkxqI)*
 
 Produced by Sam L. for GEO 409 Department of Geography, University of Kentucky 2024
