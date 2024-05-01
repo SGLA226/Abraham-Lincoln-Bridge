@@ -22,6 +22,6 @@ This page contains a Cesium Ion Story, a layout of two maps comparing before and
       allow="fullscreen" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
     </iframe>
     <!-- 💡💡💡 Cesium map: paste embed code above -->
-    <p class="caption">Caption for Cesium slideshow</p>
+    <p class="caption">Close up of the bridge via Cesium Ion</p>
     <div class="title">
  
