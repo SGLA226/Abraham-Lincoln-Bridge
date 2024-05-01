@@ -4,9 +4,9 @@ This page contains a layout of two maps comparing before and after, a link to an
 
 
 
-![Map of the surrounding area](AbrahamLincolnBridgeMap.jpg)
+![Map of the surrounding area](Layout2.jpg)
 
-[Link to High Resolution PDF](AbrahamLincolnBridgeMap.pdf)
+[Link to High Resolution PDF](Layout2.pdf)
 
 *[Link to Abraham Lincoln Bridge animation](https://youtu.be/W_sdHuvkxqI)*
 
